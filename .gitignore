@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+experiment/logs/
+experiment/models/
+experiment/results/
+experiment/results_inference_only/
+*.pt
+*.pth
+*.ckpt
+*.pkl
