@@ -25,7 +25,7 @@ WQRI/
 │   ├── final_data02.csv
 │   ├── ...
 │   ├── final_data20.csv
-│   └── small_edge.csv
+│   └── edge.csv
 ├── experiment/
 │   ├── config.yaml
 │   ├── 00_prepare_graph_dataset.py
@@ -131,20 +131,21 @@ The proposed framework consists of three main phases:
 
 ## Citation
 
-If you find this repository useful, please cite:
+If you use this repository or refer to this work, please cite it as:
 
-```text
-Byeongkeun Kwon, Dasom Seong, Jiyun Park, Hyeonjun Hwang, and Suhyeon Kim. Water Quality Risk Index Estimation using Graph Neural Networks for Spatio-temporal Watershed Systems. Submitted manuscript.
-```
+Byeongkeun Kwon*, Dasom Seong*, Jiyun Park, Hyeonjun Hwang†, and Suhyeon Kim†.
+**Water Quality Risk Index Estimation using Graph Neural Networks for Spatio-temporal Watershed Systems**.
+Submitted manuscript.
 
-BibTeX:
+* Equal contribution.
+† Co-corresponding authors.
 
 ```bibtex
 @article{kwon_wqri,
   title   = {Water Quality Risk Index Estimation using Graph Neural Networks for Spatio-temporal Watershed Systems},
   author  = {Byeongkeun Kwon and Dasom Seong and Jiyun Park and Hyeonjun Hwang and Suhyeon Kim},
   journal = {},
-  note    = {Submitted manuscript},
+  note    = {Submitted manuscript. Byeongkeun Kwon and Dasom Seong contributed equally. Hyeonjun Hwang and Suhyeon Kim are co-corresponding authors.},
   year    = {}
 }
 ```
