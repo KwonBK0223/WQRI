@@ -1,0 +1,21 @@
+seed: 42
+device: cuda:0
+version: "904"
+conv_type: gcn
+num_spatial_layers: 1
+heads: 4
+in_feats: 10
+hid_feats: 16
+latent_dim: 5
+kernel_size: 3
+tcn_dropout: 0.0
+num_epochs: 500
+patience: 5
+base_lr: 0.0001
+final_lr: 0.00001
+warmup_epochs: 10
+do_inference: true
+save_dir: experiment/models
+log_dir: experiment/logs
+result_dir: experiment/results
+window_list: [3, 5, 7, 10, 14, 20, 30]

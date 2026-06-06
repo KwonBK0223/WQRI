@@ -1,0 +1,915 @@
+node1,node2
+Ssangchon,Gangreung
+Gangreung,Ponam
+Dalbang Stream,Yongsu Stream
+Yongsu Stream,Jusu Stream
+Gyeongan Stream 11,Gyeongan Stream 10
+Gyeongan Stream 10,Gyeongan Stream 9
+Gyeongan Stream 9,Mugap Stream
+Gyeongan Stream 9,Gyeongan Stream 8
+Gyeongan Stream 8,Gonjiam Stream 3
+Gyeongan Stream 8,Mokhyeon Stream
+Gyeongan Stream 8,Gyeongan Stream 7
+Gonjiam Stream 3,Gonjiam Stream 2
+Gonjiam Stream 2,Gonjiam Stream 1
+Gyeongan Stream 7,Gyeongan Stream 6
+Gyeongan Stream 6,Gyeongan Stream 5
+Gyeongan Stream 5,Osan Stream 2
+Gyeongan Stream 5,Gyeongan Stream 4
+Osan Stream 2,Osan Stream 1
+Gyeongan Stream 4,Gyeongan Stream 3
+Gyeongan Stream 3,Gyeongan Stream 2
+Gyeongan Stream 2,Gyeongan Stream 1
+Yeongwol 1,Seokhang Stream
+Seokhang Stream,Dong River 2
+Dong River 2,Dong River 1
+Dong River 1,Jijang Stream 2
+Dong River 1,Gwangha
+Jijang Stream 2,Jijang Stream 1
+Gwangha,Jeongseon 2
+Jeongseon 2,Eo Stream 2
+Jeongseon 2,Jeongseon 1
+Eo Stream 2,Eo Stream 1
+Jeongseon 1,Joyang River
+Jeongseon 1,Odae Stream 3
+Odae Stream 3,Odae Stream 2
+Odae Stream 2,Odae Stream 1
+Joyang River,Golji Stream 4
+Golji Stream 4,Song Stream 4
+Golji Stream 4,Golji Stream 3
+Golji Stream 4,Songhyeon Stream
+Song Stream 4,Song Stream 3
+Song Stream 4,Bongsan Stream
+Song Stream 3,Song Stream 2
+Song Stream 2,Song Stream 1
+Golji Stream 3,Golji Stream 2
+Golji Stream 2,Golji Stream 1
+Golji Stream 3,Beon Stream
+Golji Stream 2,Beon Stream
+Ogap Stream,Cheongmi Stream 1
+Ogap Stream,Cheongmi Stream 4
+Ogap Stream,Cheongmi Stream 2
+Cheongmi Stream 2,Cheongmi Stream 1
+Cheongmi Stream 2,Cheongmi Stream 4
+Cheongmi Stream 2,Cheongmi Stream 3
+Cheongmi Stream 3,Eung Stream
+Eung Stream,Cheongmi Stream 5
+Cheongmi Stream 5,Cheongmi Stream 3
+Cheongmi Stream 5,Cheongmi Stream 6
+Cheongmi Stream 6,Gang Stream
+Gang Stream,Geumdang Stream 2
+Geumdang Stream 2,Yeoju 1
+Yeoju 1,Daesin
+Daesin,Yeoju 2
+Yeoju 2,Yanghwa Stream 4
+Yeoju 2,Goksu Stream 2
+Yeoju 2,Bokha Stream 6
+Yanghwa Stream 4,Yanghwa Stream 3
+Yanghwa Stream 3,Yanghwa Stream 2
+Yanghwa Stream 2,Yanghwa Stream 1
+Bokha Stream 6,Bokha Stream 5
+Bokha Stream 5,Bokha Stream 4
+Bokha Stream 4,Bokha Stream 3
+Bokha Stream 3,Bokha Stream 2
+Bokha Stream 2,Bokha Stream 1
+Yeoju 2,Goksu Stream 1
+Goksu Stream 1,Goksu Stream 2
+Goksu Stream 2,Ipo
+Ipo,Geumsa Stream
+Geumsa Stream,Yongdam Stream
+Yongdam Stream,Heuk Stream 3
+Yongdam Stream,Gangsang
+Gangsang,Satan Stream
+Satan Stream,Seongdeok Stream
+Seongdeok Stream,Gajeong Stream
+Heuk Stream 3,Heuk Stream 2
+Heuk Stream 2,Heuk Stream 1
+Geumdang Stream 2,Geumdang Stream 1
+Dal Stream 1,Dal Stream 2
+Dal Stream 2,Dal Stream 3
+Dal Stream 3,Guryong Stream
+Dal Stream 3,Hwayang Stream
+Hwayang Stream,Dal Stream 4
+Hwayang Stream,Ssang Stream
+Ssang Stream,Hyangmokdong Stream
+Dal Stream 4,Dongjin Stream 2
+Dal Stream 4,Dal Stream 5
+Dongjin Stream 2,Dongjin Stream 1
+Dal Stream 5,Dal Stream 6
+Dal Stream 5,Eumseong Stream 2
+Eumseong Stream 2,Eumseong Stream 1
+Dal Stream 6,Seokmundong Stream 2
+Dal Stream 6,Dal Stream 7
+Seokmundong Stream 2,Seokmundong Stream 1
+Dal Stream 7,Yodo Stream
+Dal Stream 7,Dal Stream 8
+Dal Stream 8,Yodo Stream
+Dal Stream 8,Chungju Stream
+Gosa,Miro
+Miro,Samcheok
+Samcheok,Sajik
+Wonsim Stream,Seom River 5
+Seom River 5,Seogok Stream
+Seom River 5,Seom River 4
+Seom River 4,Samsan Stream
+Seom River 4,Iri Stream
+Iri Stream,Wonju Stream 2
+Iri Stream,Seom River 3
+Wonju Stream 2,Wonju Stream 1
+Seom River 3,Wonju Stream 2
+Seom River 3,Seom River 2
+Seom River 2,Seom River 1
+Seom River 1,Jeon Stream
+Seom River 1,Geumgye Stream 2
+Jeon Stream,Hasunam Stream
+Geumgye Stream 2,Gye Stream 2
+Geumgye Stream 2,Geumgye Stream 1
+Gye Stream 2,Daegwandae Stream
+Gye Stream 2,Gye Stream 1
+Gye Stream 1,Daegwandae Stream
+Gye Stream 1,Yudong Stream 1
+Gye Stream 1,Yudong Stream 2
+Yudong Stream 1,Yudong Stream 2
+Seom River 5,Seom River 6
+Wonsim Stream,Seom River 6
+Bangnae Stream,Naerin Stream 1
+Soyang River 2,Soyang River 1
+Soyang River 1,Naerin Stream 2
+Naerin Stream 2,Bangnae Stream
+Anseong Stream 1,Anseong Stream 2
+Anseong Stream 2,Ipjang Stream
+Anseong Stream 2,Seonghwan Stream
+Anseong Stream 2,Anseong Stream 3
+Anseong Stream 3,Seonghwan Stream
+Anseong Stream 3,Ipjang Stream
+Ipjang Stream,Seonghwan Stream
+Anseong Stream 3,Jinwi Stream 6
+Jinwi Stream 6,Gwanri Stream
+Jinwi Stream 6,Jinwi Stream 4
+Jinwi Stream 4,Hwangguji Stream 6
+Jinwi Stream 4,Osan Stream 7
+Hwangguji Stream 6,Hwangguji Stream 5
+Hwangguji Stream 5,Hwangguji Stream 4
+Hwangguji Stream 4,Hwangguji Stream 3
+Hwangguji Stream 3,Hwangguji Stream 2
+Osan Stream 7,Jinwi Stream 3
+Osan Stream 7,Osan Stream 6
+Jinwi Stream 3,Jinwi Stream 2
+Jinwi Stream 2,Seongeun Stream
+Jinwi Stream 2,Jinwi Stream 1
+Jinwi Stream 1,Seongeun Stream
+Osan Stream 6,Osan Stream 5
+Osan Stream 5,Osan Stream 4
+Osan Stream 4,Osan Stream 3
+Yangyang,Yong Stream
+Gongji Stream 1,Gongji Stream 2
+Gongji Stream 2,Gongji Stream 3
+Gongji Stream 3,Uiam Dam
+Uiam Dam,Uiam
+Uiam,Chunseong Bridge
+Chunseong Bridge,Gapyeong Stream 3
+Gapyeong Stream 3,Namiseom
+Gapyeong Stream 3,Gapyeong Stream 2
+Gapyeong Stream 2,Gapyeong Stream 1
+Imjin River 2,Imjin River 3
+Munsan Stream 1,Munsan Stream 2
+Munsan Stream 2,Munsan Stream 3
+Munsan Stream 3,Munsan Stream 4
+Munsan Stream 4,Imjin River 7
+Imjin River 7,Imjin River 6
+Imjin River 6,Imjin River 5
+Imjin River 5,Imjin River 4
+Imjin River 5,Sami Stream
+Sami Stream,Imjin River 4
+Jojong Stream 1,Jojong Stream 2
+Jojong Stream 2,Jojong Stream 3
+Jojong Stream 3,Jojong Stream 4
+Jojong Stream 4,Cheongpyeong
+Jojong Stream 4,Daeseongri
+Jojong Stream 4,Guun Stream 2
+Daeseongri,Guun Stream 2
+Guun Stream 2,Guun Stream 1
+Guun Stream 2,Byeokgye Stream 2
+Byeokgye Stream 2,Byeokgye Stream 1
+Byeokgye Stream 2,Mukhyeon Stream
+Mukhyeon Stream,Sambongri
+Sambongri,Munho Stream
+Munho Stream,Mukhyeon Stream
+Chuncheon 3,Chuncheon 2
+Chuncheon 2,Chuncheon 1
+Chuncheon 1,Jichon Stream
+Chuncheon 1,Hwacheon Stream
+Jichon Stream,Hwacheon Stream
+Hwacheon Stream,Yangguseo Stream
+Okdong Stream 1,Okdong Stream 2
+Okdong Stream 1,Mapo Stream
+Okdong Stream 1,Okdong Stream 3
+Okdong Stream 3,Yeongwol 2
+Osari,Okdong Stream 3
+Osari,Yeongchun
+Yeongchun,Gagok
+Gagok,Deok Stream
+Deok Stream,Gadae Stream
+Deok Stream,Jukryeong Stream
+Deok Stream,Danseong
+Danyang Stream,Deok Stream
+Danyang Stream,Jukryeong Stream
+Danyang Stream,Danseong
+Danseong,Dongdal Stream
+Danseong,Chungju Dam
+Chungju Dam,Chungju
+Chungju,Mokhaeng Bridge
+Jecheon Stream 5,Chungju Dam
+Jecheon Stream 5,Dongdal Stream
+Jecheon Stream 5,Danseong
+Jecheon Stream 5,Jecheon Stream 4
+Jecheon Stream 4,Wonseo Stream 2
+Jecheon Stream 4,Jecheon Stream 3
+Wonseo Stream 2,Wonseo Stream 1
+Jecheon Stream 3,Jecheon Stream 2
+Jecheon Stream 3,Jangpyeong Stream
+Jecheon Stream 2,Jecheon Stream 1
+Maepo Stream,Yeongchun
+Maepo Stream,Osari
+Wonju,Ungye Stream
+Wonju,Deokeunri
+Ungye Stream,Deokeunri
+Deokeunri,Jungwon
+Deokeunri,Angseong Stream
+Jungwon,Angseong Stream
+Jungwon,Yeongdeok Stream
+Pyeongchang River 5,Pyeongchang River 4
+Pyeongchang River 4,Mudo Stream
+Pyeongchang River 4,Jucheon River 3
+Jucheon River 3,Mudo Stream
+Jucheon River 3,Pyeongchang River 3
+Jucheon River 3,Hwangdun Stream
+Hwangdun Stream,Jucheon River 2
+Jucheon River 2,Jucheon River 1
+Pyeongchang River 3,Pyeongchang River 2
+Pyeongchang River 2,Pyeongchang River 1
+Gulpo Stream 1,Gulpo Stream 2
+Gulpo Stream 2,Gulpo Stream 3
+Gulpo Stream 3,Gulpo Stream 4
+Gulpo Stream 3,Gyeyang Stream
+Gyeyang Stream,Paju
+Najinpo Stream,Paju
+Gulpo Stream 4,Gimpo
+Gimpo,Haengju
+Gimpo,Paju
+Haengju,Changreung Stream 5
+Changreung Stream 5,Gayang
+Changreung Stream 5,Changreung Stream 4
+Changreung Stream 4,Changreung Stream 2
+Changreung Stream 4,Changreung Stream 3
+Changreung Stream 2,Changreung Stream 1
+Changreung Stream 3,Gongreung Stream 2
+Gongreung Stream 2,Gongreung Stream 1
+Gongreung Stream 2,Gongreung Stream 3
+Gongreung Stream 3,Gongreung Stream 4
+Gongreung Stream 4,Jangjin Stream
+Gongreung Stream 4,Gongreung Stream 5
+Jangjin Stream,Seolmun Stream
+Ara Stream 1,Gongreung Stream 5
+Ara Stream 1,Gongreung Stream 4
+Tan Stream 1,Tan Stream 2
+Tan Stream 2,Tan Stream 3
+Tan Stream 2,Dongmak Stream
+Dongmak Stream,Tan Stream 3
+Tan Stream 3,Tan Stream 4
+Tan Stream 4,Tan Stream 5
+Tan Stream 5,Yangjae Stream 2
+Tan Stream 5,Tan Stream 6
+Yangjae Stream 2,Yangjae Stream 1
+Tan Stream 6,Seongnae Stream
+Tan Stream 6,Ttukdo
+Ttukdo,Seongnae Stream
+Seongnae Stream,Gami Stream
+Ttukdo,Bogwang
+Ttukdo,Jungrang Stream 6
+Bogwang,Noryangjin
+Noryangjin,Yeongdeungpo
+Noryangjin,Anyang Stream 10
+Noryangjin,Hongje Stream
+Yeongdeungpo,Hongje Stream
+Yeongdeungpo,Anyang Stream 10
+Anyang Stream 10,Anyang Stream 9
+Anyang Stream 10,Dorim Stream
+Anyang Stream 9,Mokgam Stream 2
+Mokgam Stream 2,Anyang Stream 8
+Anyang Stream 8,Mokgam Stream 1
+Mokgam Stream 1,Anyang Stream 7
+Anyang Stream 7,Anyang Stream 6
+Anyang Stream 6,Anyang Stream 5
+Anyang Stream 5,Hakui Stream
+Anyang Stream 5,Anyang Stream 4
+Anyang Stream 4,Anyang Stream 3
+Anyang Stream 4,Sanbon Stream
+Anyang Stream 3,Anyang Stream 2
+Anyang Stream 2,Sanbon Stream
+Anyang Stream 2,Anyang Stream 1
+Jungrang Stream 6,Cheonggye Stream 3
+Cheonggye Stream 3,Seongbuk Stream
+Seongbuk Stream,Jeongreung Stream
+Cheonggye Stream 3,Cheonggye Stream 2
+Cheonggye Stream 2,Cheonggye Stream 1
+Cheonggye Stream 3,Jungrang Stream 5
+Jungrang Stream 5,Ui Stream
+Ui Stream,Jungrang Stream 4
+Jungrang Stream 4,Jungrang Stream 3
+Jungrang Stream 3,Jungrang Stream 2
+Jungrang Stream 2,Jungrang Stream 1
+Naega Stream,Seonhaeng Stream
+Seonhaeng Stream,Ara Stream 2
+Jamsil,Guui
+Guui,Amsa
+Amsa,Guri
+Amsa,Godeok Stream
+Godeok Stream,Mangwol Stream
+Godeok Stream,Choi Stream
+Guri,Wangsuk Stream 6
+Wangsuk Stream 6,Wangsuk Stream 5
+Wangsuk Stream 6,Hongreung Stream
+Wangsuk Stream 5,Yongam Stream
+Wangsuk Stream 5,Wangsuk Stream 4
+Wangsuk Stream 4,Wangsuk Stream 3
+Wangsuk Stream 4,Wangsuk Stream 2
+Wangsuk Stream 2,Wangsuk Stream 1
+Wangsuk Stream 2,Bongseonsa Stream
+Hongreung Stream,Deokso Stream
+Deokso Stream,Dosim Stream
+Deokso Stream,Wolmun Stream
+Dosim Stream,Gungchon Stream
+Gungchon Stream,Dogok
+Dogok,Deokpung Stream
+Dogok,Sangok Stream
+Sangok Stream,Paldang
+Sin Stream 1,Sin Stream 2
+Sin Stream 2,Sin Stream 3
+Sin Stream 3,Sin Stream 4
+Sin Stream 4,Sudong Stream
+Sin Stream 4,Sin Stream 5
+Sin Stream 5,Hantan River 4
+Sin Stream 5,Hantan River 3
+Hantan River 4,Chatan Stream
+Chatan Stream,Hantan River 5
+Hantan River 3,Hantan River 2
+Hantan River 2,Yeongpyeong Stream 3
+Hantan River 2,Hantan River 1
+Hantan River 1,GimhwaNamdae Stream
+Yeongpyeong Stream 3,Pocheon Stream
+Pocheon Stream,Yeongpyeong Stream 2
+Yeongpyeong Stream 2,Yeongpyeong Stream 1
+Hwayang River,Hongcheon River 1
+Hongcheon River 1,Gulji Stream
+Hongcheon River 1,Hongcheon River 2
+Hongcheon River 2,Jungbangdae Stream
+Hongcheon River 2,Hongcheon River 3
+Hongcheon River 3,Chugok Stream
+Inbuk Stream 2,Inbuk Stream 1
+Inbuk Stream 1,Mandae Stream
+Gonyang Stream,Baekryeon Stream
+Gam Stream 1,Gam Stream 2
+Gam Stream 2,Gam Stream 3
+Gam Stream 3,Gam Stream 4
+Gangjeong,Han Stream 2
+Han Stream 2,Han Stream 1
+Gangjeong,Bonggok Stream
+Bonggok Stream,Han Stream 2
+Han Stream 2,Gumi
+Gumi,Chilgok
+Gumi,Gyeongho Stream
+Gyeongho Stream,Chilgok
+Gyeongho Stream,Baek Stream 1
+Chilgok,Waegwan
+Waegwan,Seongju
+Seongju,Baek Stream 2
+Seongju,Yongam
+Yongam,Habin Stream
+Yongam,Dasa
+Habin Stream,Dasa
+Dasa,Dalseong
+Gucheon Stream,Yeoncho Stream 2
+Yeoncho Stream 2,Yeoncho Stream 1
+Seonsan,Sangok
+Sangok,Sangju 3
+Sangju 3,Nakdan
+Jukjang Stream,Jaho Stream
+Jaho Stream,Geumho River 1
+Geumho River 1,Geumho River 2
+Geumho River 2,Sinryeong Stream
+Sinryeong Stream,Gohyeon Stream
+Geumho River 2,Bugi Stream
+Bugi Stream,Cheongtong Stream
+Bugi Stream,Geumho River 3
+Geumho River 2,Geumho River 3
+Geumho River 3,Uksu Stream
+Geumho River 3,Geumho River 4
+Geumho River 4,Uksu Stream
+Geumho River 4,Geumho River 5
+Geumho River 5,Geumho River 6
+Geumho River 6,Geumho River 7
+Geumho River 7,Geumho River 8
+Geumho River 7,Palgeo Stream 1
+Changwon Stream,Naedong Stream
+Nakdonggang River Estuary Barrage 1,Gupo
+Gupo,Seonakdong River 1
+Gupo,Geumgok
+Seonakdong River 1,Seonakdong River 2
+Seonakdong River 2,Seonakdong River 4
+Seonakdong River 2,Seonakdong River 3
+Seonakdong River 3,Seonakdong River 4
+Seonakdong River 4,Nakdong River Estuary Barrage 2
+Geumgok,Mulgeum
+Geumgok,Yangsan Stream 2
+Yangsan Stream 2,Yangsan Stream 1
+Yangsan Stream 2,Yangsan Stream 3
+Yangsan Stream 3,Geumgok
+Gwangryeo Stream 1,Gwangryeo Stream 2
+Gwangryeo Stream 2,Gwangryeo Stream 3
+Gwangryeo Stream 3,Gwangryeo Stream 4
+Gwangryeo Stream 4,Haman
+Gwangryeo Stream 4,Gyeseong Stream
+Gyeseong Stream,Namji
+Haman,Imhaejin
+Imhaejin,Bukmyeon
+Bukmyeon,Cheongdo Stream 2
+Cheongdo Stream 2,Cheongdo Stream 1
+Bukmyeon,Hanam
+Bukmyeon,Jucheon River
+Jucheon River,Juhang Stream
+Juhang Stream,Bukmyeon
+Jucheon River,Samrangjin 1
+Jucheon River,Hwapo Stream
+Samrangjin 1,Hwapo Stream
+Samrangjin 1,Samrangjin 2
+Sangju 2,Malji Stream
+Sangju 2,Donam
+Donam,Sangju 1
+Sangju 1,Yeongsun
+Yongsan,Changnyeong Stream
+Yongsan,Topyeong Stream 2
+Yongsan,Sinban Stream
+Sinban Stream,Changnyeong Stream
+Sinban Stream,Topyeong Stream 2
+Sinban Stream,Hap Stream
+Hap Stream,Topyeong Stream 2
+Topyeong Stream 2,Topyeong Stream 1
+Yeongcheon River 1,Yeongcheon River 2
+Yeongcheon River 2,Nam River 3
+Yeongcheon River 2,Nam River 2
+Nam River 3,Nam River 2
+Nam River 1,Nam River 2
+Nam River 3,Nam River 4
+Nam River 4,Nam River 5
+Nam River 5,Uiryeong Stream
+Nam River 5,Haman Stream 2
+Haman Stream 2,Haman Stream 1
+Haman Stream 2,Nam River 6
+Nam River 6,Nam River 7
+Nam River 6,Nam River 5
+Ram Stream 1,Ram Stream 2
+Ram Stream 2,Obong Stream
+Obong Stream,Im Stream
+Im Stream,Gyeongho River 1
+Im Stream,Hamyangwi Stream 2
+Hamyangwi Stream 2,Hamyangwi Stream 1
+Hamyangwi Stream 2,Namgang Stream
+Gyeongho River 1,Gyeongho River 2
+Gyeongho River 1,Yang Stream 2
+Gyeongho River 1,Yang Stream 2
+Yang Stream 2,Migok Stream
+Migok Stream,Yang Stream 1
+Yang Stream 1,Yang Stream 2
+Sindeung Stream,Yang Stream 2
+Deokcheon River 1,Deokcheon River 2
+Gyeongho River 2,Deokcheon River 1
+Deokcheon River 2,Deokcheon River 3
+Deokcheon River 3,Deokcheon River 1
+Naeseong Stream 5,Naeseong Stream 4
+Naeseong Stream 4,Han Stream
+Han Stream,Naeseong Stream 5
+Han Stream,Naeseong Stream 3
+Naeseong Stream 4,Naeseong Stream 3
+Naeseong Stream 3,Seokgwan Stream
+Naeseong Stream 3,Naeseong Stream 2
+Naeseong Stream 3,Okgye Stream
+Naeseong Stream 2,Yeongjuseo Stream 2
+Naeseong Stream 2,Naeseong Stream 1
+Naeseong Stream 1,Toil Stream
+Yeongjuseo Stream 2,Yeongjuseo Stream 1
+Daejong Stream,Naeng Stream
+Milyang River 4,Milyang River 3
+Milyang River 3,Milyang River 2
+Milyang River 2,Milyang River 1
+Milyang River 1,Cheongdo Stream
+Milyang River 1,Gojeong Stream
+Gojeong Stream,Cheongdo Stream
+Gojeong Stream,Dongchang Stream 2
+Dongchang Stream 2,Buil Stream
+Dongchang Stream 1,Dongchang Stream 2
+Buil Stream,Dongchang Stream 1
+Dongchang Stream 1,Soho Stream
+Danjang Stream 1,Danjang Stream 2
+Danjang Stream 2,Danjang Stream 3
+Suyeong River 3,HoedongdaemSangryu
+Hwangji 3,Cheolam Stream
+Cheolam Stream,Hwangji 1
+Hwangji 1,Hwangji 2
+Hwangji 2,Seokpo 1
+Seokpo 1,Seokpo 2
+Seokpo 2,Seokpo 4
+Seokpo 2,Golpo Stream
+Seokpo 4,Golpo Stream
+Seokpo 2,Seokpo 3
+Seokpo 3,Seokpo 4
+Golpo Stream,Hoeryong Stream
+Hoeryong Stream,Bonghwa
+Bonghwa,Dosan
+Dosan,Andong 1
+Seokpo 3,Bonghwa
+Anmang Stream,Mi Stream
+Mi Stream,Songya Stream
+Songya Stream,Andong 2
+Andong 2,Mi Stream
+Mi Stream,Andong 3
+Andong 3,Pungsan Stream
+Andong 3,Andong 4
+Andong 4,Pungsan Stream
+Andong 4,Gwangsan Stream 2
+Gwangsan Stream 2,Gwangsan Stream 1
+Gwangsan Stream 2,Andong 5
+Andong 5,Yecheon 1
+Yecheon 1,Yecheon 2
+Yeong River 3,Yeong River 2
+Yeong River 2,Yeong River 1
+Yeong River 1,Ian Stream
+Wi Stream 1,Gunwinam Stream
+Gunwinam Stream,Wi Stream 2
+Wi Stream 2,Wi Stream 1
+Wi Stream 2,Gokjeong Stream
+Wi Stream 2,Wi Stream 3
+Wi Stream 3,Ssanggye Stream
+Wi Stream 3,Wi Stream 4
+Wi Stream 4,Wi Stream 5
+Banbyeon Stream 2,Yongjeon Stream 3
+Banbyeon Stream 1,Banbyeon Stream 2
+Yongjeon Stream 3,Yongjeon Stream 2
+Yongjeon Stream 2,Yongjeon Stream 1
+Yongjeon Stream 2,Gilan Stream 2
+Yongjeon Stream 3,Gilan Stream 2
+Yonggye Stream,Gilan Stream 2
+Byeongbo Stream,Gilan Stream 1
+Gilan Stream 1,Gilan Stream 2
+Gilan Stream 2,Banbyeon Stream 4
+Banbyeon Stream 4,Banbyeon Stream 3
+Deokgok,Daeamri
+Daeamri,Cha Stream
+Cha Stream,Hyeonpung
+Hyeonpung,Nongong
+Nongong,Goryeong
+Goryeong,Hwawon Naru
+Daegok Stream 1,Daegok Stream 2
+Daegok Stream 2,Mangseong
+Daegok Stream 2,Daeam
+Daeam,Jakdong Bridge
+Jakdong Bridge,Hajam Bridge
+Daeam,Mangseong
+Hajam Bridge,Bansong
+Bansong,Sinhwa
+Sinhwa,Boeun Stream
+Bansong,Jiheon
+Jiheon,Deokhyeon
+Mangseong,Guyeong
+Guyeong,Samho
+Samho,Taehwa
+Taehwa,Naehwang
+Naehwang,Myeongchon
+Naehwang,Hakseong
+Naehwang,Dong Stream
+Dong Stream,Sindap
+Sindap,Jeil A
+Geochangdong Stream 1,Geochangdong Stream 2
+Geochangdong Stream 2,Geochangwi Stream 2
+Geochangdong Stream 2,Hwang River 1
+Geochangwi Stream 1,Hwang River 1
+Ga Stream,Hwang River 3
+Hwang River 3,Hwang River 2
+Hwang River 2,Hwang River 1
+Hwang River 3,Sacheon Stream
+Hyeongsan River 1,Hyeongsan River 2
+Hyeongsan River 2,Hyeongsan River 3
+Hyeongsan River 3,Hyeongsan River 4
+Hyeongsan River 4,Gigye Stream
+Hyeongsan River 4,Hyeongsan River 5
+Hwang River 4,Hwang River 5
+Hwang River 5,Hwang River 6
+Deokgye Stream,Hoeya River 1
+Hoeya River 1,Hoeya River 2
+Hoeya River 2,Hoeya River 3
+Hoe Stream 3,Hoe Stream 2
+Hoe Stream 2,Daega Stream 3
+Daega Stream 3,Hoe Stream 1
+Hoe Stream 1,Daega Stream 2
+Daega Stream 2,Daega Stream 1
+Gaya Stream,Hoe Stream 2
+Gap Stream 2,Gap Stream 3
+Gap Stream 3,Gap Stream 4
+Gap Stream 4,Yudeung Stream 7
+Gap Stream 4,Gap Stream 5
+Gap Stream 5,Gap Stream 6
+Gap Stream 6,Gap Stream 7
+Yudeung Stream 7,Daejeon Stream 4
+Daejeon Stream 4,Daejeon Stream 3
+Daejeon Stream 3,Daejeon Stream 2
+Daejeon Stream 2,Daejeon Stream 1
+Yudeung Stream 7,Yudeung Stream 3
+Seokseong Stream 1,Seokseong Stream 2
+Seokseong Stream 2,Seokseong Stream 3
+Seokseong Stream 3,Seongdong
+Seokseong Stream 3,Buyeo 2
+Buyeo 2,Buyeo 1
+Buyeo 1,Buyeo
+Buyeo,Jeongdong
+Buyeo,Ji Stream 2
+Buyeo,Ji Stream 1
+Buyeo,Gongju 2
+Gongju 2,Mokmyeon
+Mokmyeon,Yugu Stream
+Yugu Stream,Gongju 2
+Geum River,Gongju 2
+Geum River,Gongju 1
+Geum River,Gom Naru
+Gongju 1,Jeongan Stream
+Geum River,Sejong 2
+Sejong 2,Yeongi
+Sejong 2,Yongsu Stream 1
+Yongsu Stream 1,Yeongi
+Yeongi,Yongsu Stream 2
+Daegyo Stream 1,Daegyo Stream 2
+Daegyo Stream 2,Yeongi
+Daegyo Stream 2,Yongsu Stream 2
+Eunsan Stream,Ji Stream 1
+Eunsan Stream,Ji Stream 2
+Eunsan Stream,Jeongdong
+Eunsan Stream,Buyeo
+Ungcheon Stream 2,Ungcheon Stream 1
+Gwangcheon Stream,Daecheon Stream
+Pangyo Stream,Ungcheon Stream 2
+Pangyo Stream,Ungcheon Stream 1
+Ganggyeong,Sanbuk Stream
+Sanbuk Stream,Yanghwa
+Yanghwa,Geum River Gate
+Gilsan Stream 1,Gilsan Stream 2
+Gilsan Stream 2,Geum River Gate
+Noseong Stream 1,Noseong Stream 2
+Noseong Stream 2,Nonsan Stream 3
+Nonsan Stream 3,Bangchuk Stream
+Bangchuk Stream,Ganggyeong Stream
+Ganggyeong Stream,Nonsan Stream 4
+Masan Stream,Nonsan Stream 4
+Masan Stream,Sucheol Stream
+Masan Stream,Bangchuk Stream
+Yeonsan Stream,Nonsan Stream 2
+Nonsan Stream 2,Nonsan Stream 1
+Daecheong,Yongho Stream
+Yongho Stream,Daecheong Dam
+Daecheong Dam,Hoein Stream
+Daecheong Dam,Juwon Stream
+Daecheong Dam,Okcheon Stream
+Okcheon Stream,Chupung Stream
+Chupung Stream,Sanggok Stream
+Iwon,Okcheon
+Iwon,Usan
+Usan,Okcheon
+Baek Stream,Bu River
+Bu River,Sejong 1
+Dangjin Stream 1,Dangjin Stream 2
+Dongjin River 1,Yongho Stream
+Yongho Stream,Dongjin River 2
+Dongjin River 2,Jeongeup Stream 4
+Jeongeup Stream 1,Jeongeup Stream 4
+Jeongeup Stream 2,Cheonwon Stream
+Jeongeup Stream 2,Jeongeup Stream 3
+Jeongeup Stream 3,Cheonwon Stream
+Jeongeup Stream 2,Jeongeup Stream 4
+Jeongeup Stream 4,Dongjin River 3
+Dongjin River 3,Wonpyeong Stream 1
+Dongjin River 3,Wonpyeong Stream 2
+Wonpyeong Stream 1,Wonpyeong Stream 2
+Gobu Stream 2,Dongjin River 3
+Gobu Stream 2,Gobu Stream 3
+Gobu Stream 3,Gobu Stream 1
+Wonpyeong Stream 3,Sinpyeong Stream
+Wonpyeong Stream 3,Wonpyeong Stream 2
+Sam Stream 1,Sam Stream 2
+Sam Stream 2,Sam Stream 3
+Jeonju Stream 1,Soyang Stream 2
+Soyang Stream 1,Soyang Stream 2
+Gosan,Soyang Stream 2
+Soyang Stream 2,Sam Stream 3
+Jeonju Stream 7,Iksan Stream 3
+Iksan Stream 3,Iksan Stream 2
+Iksan Stream 2,Iksan Stream 1
+Mujunamdae Stream 1,Mujunamdae Stream 2
+Mujunamdae Stream 2,Mujunamdae Stream 3
+Mujunamdae Stream 3,Mujunamdae Stream 1
+Miho River 10,Miho River 9
+Miho River 10,Wolha Stream
+Miho River 10,Jo Stream 2
+Wolha Stream,Jo Stream 2
+Jo Stream 2,Jo Stream 1
+Miho River 9,Miho River 8
+Miho River 9,Musim Stream 3
+Miho River 9,Musim Stream 2
+Musim Stream 2,Musim Stream 1
+Miho River 8,Byeongcheon Stream 2
+Seoknam Stream,Miho River 7
+Miho River 7,Byeongcheon Stream 2
+Byeongcheon Stream 2,Byeongcheon Stream 1
+Yongdu Stream,Byeongcheon Stream 2
+Seoknam Stream,Musim Stream 3
+Musim Stream 3,Miho River 6
+Miho River 6,Seongam Stream
+Miho River 6,Miho River 5
+Bogang Stream 1,Bogang Stream 2
+Bogang Stream 2,Miho River 5
+Bogang Stream 1,Miho River 5
+Miho River 5,Miho River 4
+Miho River 4,Miho River 3
+Miho River 3,Chopyeong Stream
+Miho River 5,Baekgok Stream 2
+Baekgok Stream 2,Baekgok Stream 1
+Miho River 3,Miho River 2
+Miho River 2,Miho River 4
+Miho River 2,Chiljang Stream
+Miho River 2,Miho River 1
+Miho River 1,Miho River 3
+Miho River 1,Miho River 4
+Bocheong Stream 4,Bocheong Stream 3
+Bocheong Stream 3,Samga Stream
+Bocheong Stream 3,Bocheong Stream 2
+Bocheong Stream 3,Hanggeon Stream
+Bocheong Stream 2,Bocheong Stream 1
+Cheongji Stream,Dodang Stream
+Dundang Stream,Cheongji Stream
+Taean Stream,Janggeom Stream
+Waryong Stream,Dodang Stream
+Samyong Stream,Cheonan Stream 1
+Cheonan Stream 1,Wonseong Stream
+Wonseong Stream,Gokgyo Stream 1
+Gokgyo Stream 1,Cheonan Stream 3
+Cheonan Stream 3,Cheonan Stream 2
+Cheonan Stream 3,Oncheon Stream
+Oncheon Stream,Gokgyo Stream 2
+Muhan Stream 1,Muhan Stream 2
+Sapgyo Stream 1,Sapgyo Stream 2
+Sapgyo Stream 2,Sapgyo Stream 3
+Sapgyo Stream 3,Muhan Stream 2
+Namwon Stream,Sapgyo Stream 3
+Buri,Bonghwang Stream
+Buri,Jewon 1
+Buri,Jewon 2
+Bonghwang Stream,Jewon 1
+Jewon 1,Jewon 2
+Jewon 2,Yeongdong Stream 1
+Jewon 2,Yeongdong
+Jewon 2,Yeongdong Stream 2
+Yeongdong,Yeongdong Stream 2
+Gamak,Jinan Stream
+Jinan Stream,Jeongja Stream
+Gamak,Jeongja Stream
+Guryang Stream,Gamak
+Guryang Stream,Jinan Stream
+Guryang Stream,Jeongja Stream
+Yongpo,Yongdam
+Chupungryeong Stream,Cho River 1
+Seok Stream,Geumsang Stream
+Seok Stream,Chupungryeong Stream
+Cho River 2,Geumsang Stream
+Cho River 2,Chupungryeong Stream
+Cho River 2,Cho River 1
+Gomakwon Stream 1,Sikji Stream
+Gomakwon Stream 1,Gomakwon Stream 2
+Gomakwon Stream 2,Sikji Stream
+Gomakwon Stream 2,Gusan Stream
+Gomakwon Stream 2,Gomakwon Stream 4
+Gomakwon Stream 4,Gomakwon Stream 3
+Boseong River 5,Boseong River 6
+Boseong River 6,Boseong River 7
+Gwanchon,Unam
+Unam,Churyeong Stream
+Imsil,Chi Stream
+Chi Stream,Donggye
+Gyesan,Gurye
+Gurye,Deokeun
+Gurye,Akyang
+Deokeun,Akyang
+Akyang,Hadong
+Hadong,Jinwol
+Jinwol,Hoengcheon River 3
+Hoengcheon River 3,Hoengcheon River 2
+Hoengcheon River 2,Hoengcheon River 1
+Godal,Gokseong
+Sueo Stream 1,Sueo Stream 2
+Dae River,Jeokseong
+Dae River,Oktaek Stream
+Jeokseong,Oktaek Stream
+Jeokseong,Suhong Stream
+Oktaek Stream,Suhong Stream
+Namwon,Dae River
+Damyang,Sandong
+Seokgok Stream,Sandong
+Uchi,Sandong
+Yongsan Stream,Sandong
+Jinwon Stream,Sandong
+Sandong,Gwangju 1
+Gwangju 1,Gwangju Stream 2
+Sandong,Gwangju Stream 2
+Gwangju 1,Gwangju 2
+Gwangju 2,Gwangju 3
+Gwangju 1,Pungyeongjeong Stream 2
+Gwangju Stream 2,Pungyeongjeong Stream 2
+Pungyeongjeong Stream 1,Pungyeongjeong Stream 2
+Gwangju Stream 1,Gwangju 1
+Gwangju Stream 2,Gwangju 2
+Jangseong Stream 1,Jangseong Stream 2
+Jangseong Stream 2,Pyeongdong Stream
+Pyeongdong Stream,Gwangsan
+Jangseong Stream 2,Yeongsan Stream
+Jangseong Stream 2,Naju
+Naju,Manbong Stream
+Manbong Stream,Yeongsanpo 1
+Yeongsanpo 1,Naju
+Munpyeong Stream,Yeongsanpo 1
+Munpyeong Stream,Juksan
+Munpyeong Stream,Yeongsanpo 2
+Hampyeong Stream 1,Sampo Stream 1
+Muan Stream,Hampyeong Stream 3
+Hampyeong Stream 3,Hampyeong
+Hampyeong Stream 3,Hampyeong Stream 2
+Hampyeong Stream 3,Muan 1
+Muan 1,Sampo Stream 2
+Sampo Stream 1,Sampo Stream 2
+Yeongam Stream 1,Yeongam Stream 2
+Osu Stream 1,Yul Stream
+Osu Stream 1,Wolpyeong Stream
+Yul Stream,Wolpyeong Stream
+Wolpyeong Stream,Hugok Stream
+Hugok Stream,Osu Stream 2
+Osu Stream 2,Wolpyeong Stream
+Yo Stream 2,Yo Stream 3
+Yo Stream 3,Yo Stream 1
+Isa Stream 1,Isa Stream 3
+Isa Stream 3,Suncheondong Stream 3
+Suncheondong Stream 3,Suncheondong Stream 2
+Suncheondong Stream 2,Isa Stream 2
+Suncheondong Stream 2,Suncheondong Stream 1
+Juam Dam,Dongbok Stream 3
+Juam Dam,Boseong River 4
+Dongbok Stream 3,Dongbok Stream 2
+Dongbok Stream 2,Nam Stream
+Nam Stream,Dongbok Stream 1
+Boseong River 4,Boseong River 3
+Boseong River 3,Boseong River 2
+Boseong River 2,Boseong River 1
+Jujin Stream 1,Jujin Stream 2
+Jiseok Stream 1,Hwasun Stream
+Jiseok Stream 1,Jiseok Stream 3
+Hwasun Stream,Jiseok Stream 3
+Jiseok Stream 2,Jiseok Stream 3
+Daechon Stream,Jiseok Stream 3
+Daechon Stream,Jiseok Stream 4
+Jiseok Stream 3,Jiseok Stream 4
+Tamjin River 1,Tamjin River 2
+Tamjin River 2,Tamjin River 3
+Omcheon Stream 1,Omcheon Stream 2
+Omcheon Stream 1,Tamjin River 3
+Omcheon Stream 2,Tamjin River 3
+Yuchi Stream 1,Tamjin River 3
+Yuchi Stream 2,Tamjin River 3
+Tamjin River 3,Tamjin River 4
+Tamjin River 4,Geumgang Stream 2
+Geumgang Stream 2,Geumgang Stream 1
+Geumgang Stream 2,Tamjin River 5
+Hwangryong River 1,Hwangryong River 2
+Hwangryong River 2,Hwangryong River 3
+Hwangryong River 2,Pyeongrim Stream
+Hwangryong River 3,Pyeongrim Stream
+Pyeongrim Stream,Hwangryong River 4
+Hwangryong River 4,Hwangryong River 5
+Incheonsongdo,Sihwabanwol
+Sihwabanwol,Sihwajoryeok
+Sihwajoryeok,Sihwabanwol
+Sihwabanwol,Geumganghagu
+Sihwajoryeok,Geumganghagu
+Geumganghagu,Yeongsanmokpo
+Geumganghagu,Yeongsanyeongam
+Yeongsanmokpo,Yeongsanyeongam
+Gwangyangmangdeok,Gwangyangjeokryang
+Masanbongam,Masansamgwi
+Masanbongam,Masanyangdeok
+Masansamgwi,Masanyangdeok
+Nakdongmyeongji,Nakdongeulsuk
+Busansuyeong,Nakdongeulsuk
+Masansamgwi,Nakdongeulsuk
