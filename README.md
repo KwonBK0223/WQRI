@@ -162,4 +162,4 @@ Released under the MIT License. See `LICENSE` for details.
 
 For questions and collaborations, please open an issue or contact the authors.
 
-- Byeongkeun Kwon: house9895@knu.ac.kr
+- Byeongkeun Kwon: house9895@knu.ac.kr 
