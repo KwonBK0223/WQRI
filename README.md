@@ -141,7 +141,7 @@ Submitted manuscript.
 † Co-corresponding authors.
 
 ```bibtex
-@article{kwon_wqri,
+@article{wqri,
   title   = {Water Quality Risk Index Estimation using Graph Neural Networks for Spatio-temporal Watershed Systems},
   author  = {Byeongkeun Kwon and Dasom Seong and Jiyun Park and Hyeonjun Hwang and Suhyeon Kim},
   journal = {},
